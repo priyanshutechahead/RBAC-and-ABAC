@@ -14,5 +14,5 @@
 - Define boolean access policies — Example: same department AND office hours AND MFA verified.
 - Use a central policy engine — Evaluate rules at request time and log allow/deny decisions.
 
-* **RBAC learning:** [Role-Based Access Control (RBAC)](https://www.geeksforgeeks.org/ethical-hacking/role-based-access-control-1)
-* **ABAC learning:** [Attribute-Based Access Control (ABAC)](https://www.geeksforgeeks.org/system-design/attribute-based-access-controlabac)
+* **RBAC learning:** [Role-Based Access Control (RBAC) -> gfg](https://www.geeksforgeeks.org/ethical-hacking/role-based-access-control-1)
+* **ABAC learning:** [Attribute-Based Access Control (ABAC) -> gfg](https://www.geeksforgeeks.org/system-design/attribute-based-access-controlabac)
